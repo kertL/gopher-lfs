@@ -1,4 +1,4 @@
-module layeh.com/layeh.com/gopher-lfs
+module github.com/kertL/gopher-lfs
 
 go 1.12
 
